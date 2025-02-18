@@ -22,7 +22,7 @@ console.log(miLetra);
 let miBoolean = true
 console.log(miBoolean);
 
-//? NULL | Valor y tipo de dato
+//? NULL | Object
 let miNull = null
 console.log(miNull);
 
