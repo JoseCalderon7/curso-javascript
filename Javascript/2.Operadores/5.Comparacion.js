@@ -33,3 +33,6 @@ console.log(true == 1); // true (true se convierte a 1)
 console.log(false == 0); // true (false se convierte a 0)
 console.log(true === 1); // false (diferente tipo)
 console.log(false === 0); // false (diferente tipo)
+
+//* En general al usar el triple =, aseguramos que se cumpla completamente
+//* la validacion entre variables u objetos.
