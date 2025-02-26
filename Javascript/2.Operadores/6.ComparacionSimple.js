@@ -1,4 +1,4 @@
-//* Operadores Relacionales (Comparacion) simple dentro de JavaScript.
+//* Operadores Relacionales (Comparacion) simple dentro de JavaScript. 
 let a = 5;
 let b = '5';
 console.log(a);
