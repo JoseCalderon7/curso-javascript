@@ -21,3 +21,6 @@ console.log("a === b -> ", a === b);
 
 //* String interpolation
 console.log(`${a} === ${b} -> ${a === b}`);
+
+//* Como podemos observar al realizar comparacion no solo por el dato sino por el tipo
+//* podemos generar mayor enfoque en que se cumplan las condiciones como corresponde. 
